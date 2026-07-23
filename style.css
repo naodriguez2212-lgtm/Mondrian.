@@ -1,0 +1,17 @@
+.container{
+    background-color: white;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    height: 650px;
+
+}
+
+.item {
+    background-color: lemonchiffon;
+    color: lightskyblue;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    font-family:'Montserrat', sans-serif;
+}
