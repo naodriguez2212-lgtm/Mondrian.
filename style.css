@@ -20,11 +20,11 @@
 }
 
 .Thing2{
-    background-color: lightgreen;
+    background-color: rgb(255, 111, 210);
 }
 
 .Thing6{
-    background-color: aquamarine;
+    background-color: rgb(255, 137, 206);
 }
 
 .Thing9{
@@ -41,4 +41,8 @@
 
 .Thing5{
     background-color: darkorchid;
+}
+
+.Thing10{
+    background-color: rgb(255, 216, 244);
 }
