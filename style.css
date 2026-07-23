@@ -9,9 +9,12 @@
 
 .item {
     background-color: lemonchiffon;
-    color: lightskyblue;
+    color: white;
     font-size: 30px;
     padding: 10px;
     text-align: center;
     font-family:'Montserrat', sans-serif;
+}
+.Thing1{
+    background-color: purple;
 }
